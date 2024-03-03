@@ -5,7 +5,7 @@ from llama_index import (
     load_index_from_storage
 )
 import openai
-openai.api_key = "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"
+openai.api_key = "enter our api key here"
 import os.path
 
 PERSIST_DIR = "./storage"
